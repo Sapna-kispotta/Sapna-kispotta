@@ -1,5 +1,3 @@
-Sure, here's the README.md formatted for easy copy-pasting:
-
 ---
 
 # RestaurantWeb
