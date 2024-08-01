@@ -7,6 +7,38 @@ Welcome to my GitHub profile! I'm Sapna Kispotta, currently exploring and learni
 
 ---
 
+### Ice-Cream Web
+
+A digital ice cream menu designed with HTML, CSS, and JavaScript. This project showcases an engaging and attractive design, providing information about different ice cream flavors along with a contact form for inquiries.
+
+**Features:**
+- Visually appealing design
+- Information about various ice cream flavors
+- Contact form for customer inquiries
+
+**Installation:**
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Sapna-kispotta/Ice-cream-web.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Ice-cream-web
+    ```
+3. Open `index.html` in your preferred web browser.
+
+**Usage:**
+- Open the `index.html` file in any web browser to view the website.
+
+**Future Enhancements:**
+- Add a shopping cart feature
+- Include user reviews and ratings
+- Implement a dynamic menu with seasonal flavors
+
+For more details, visit the [Ice-Cream Web GitHub Repository](https://github.com/Sapna-kispotta/Ice-cream-web).
+
+---
+
 #### Projects:
 
 ### Digital Clock
@@ -39,38 +71,6 @@ A simple and elegant digital clock implemented with HTML, CSS, and JavaScript.
 - Provide options for a 24-hour format
 
 For more details, visit the [Digital Clock GitHub Repository](https://github.com/Sapna-kispotta/Digital-clock).
-
----
-
-### Ice-Cream Web
-
-A digital ice cream menu designed with HTML, CSS, and JavaScript. This project showcases an engaging and attractive design, providing information about different ice cream flavors along with a contact form for inquiries.
-
-**Features:**
-- Visually appealing design
-- Information about various ice cream flavors
-- Contact form for customer inquiries
-
-**Installation:**
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Sapna-kispotta/Ice-cream-web.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Ice-cream-web
-    ```
-3. Open `index.html` in your preferred web browser.
-
-**Usage:**
-- Open the `index.html` file in any web browser to view the website.
-
-**Future Enhancements:**
-- Add a shopping cart feature
-- Include user reviews and ratings
-- Implement a dynamic menu with seasonal flavors
-
-For more details, visit the [Ice-Cream Web GitHub Repository](https://github.com/Sapna-kispotta/Ice-cream-web).
 
 ---
 
