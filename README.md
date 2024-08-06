@@ -3,74 +3,72 @@
 
 ### Sapna Kispotta's GitHub Profile
 
-Welcome to my GitHub profile! I'm Sapna Kispotta, currently exploring and learning new things while being associated with NIT Jamshedpur. Here, you'll find some of my frontend projects showcasing my skills in HTML, CSS, and JavaScript.
+Welcome to my GitHub profile! I'm Sapna Kispotta, currently exploring and learning new things while being associated with NIT Jamshedpur. Here, you'll find some of my frontend projects showcasing my skills in HTML, CSS, Bootstrap and JavaScript.
 
 ---
+Projects Showcase
 
-### Ice-Cream Web
+This repository showcases three personal projects demonstrating my skills in web development and design.
 
-A digital ice cream menu designed with HTML, CSS, and JavaScript. This project showcases an engaging and attractive design, providing information about different ice cream flavors along with a contact form for inquiries.
+News Aggregator
 
-**Features:**
+A simple web application to collect and display news articles from various sources.
+
+Features
+
+- Real-time updates: Fetches the latest news articles in real-time.
+- Categorized news: Organizes articles into categories for easy navigation.
+- Search functionality: Allows users to search for specific news articles.
+
+Technologies Used
+
+- Frontend: React, Bootstrap
+- Backend: Node.js
+- Build Tool: Vite
+- Styling: CSS, Bootstrap
+
+Ice-Cream Web
+
+A digital ice cream menu designed with HTML, CSS, and JavaScript.
+
+Features
+
 - Visually appealing design
 - Information about various ice cream flavors
 - Contact form for customer inquiries
 
-**Installation:**
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Sapna-kispotta/Ice-cream-web.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Ice-cream-web
-    ```
-3. Open `index.html` in your preferred web browser.
+Technologies Used
 
-**Usage:**
-- Open the `index.html` file in any web browser to view the website.
+- HTML
+- CSS
+- JavaScript
 
-**Future Enhancements:**
+Future Enhancements
+
 - Add a shopping cart feature
 - Include user reviews and ratings
 - Implement a dynamic menu with seasonal flavors
 
-For more details, visit the [Ice-Cream Web GitHub Repository](https://github.com/Sapna-kispotta/Ice-cream-web).
-
----
-
-#### Projects:
-
-### Digital Clock
+Digital Clock
 
 A simple and elegant digital clock implemented with HTML, CSS, and JavaScript.
 
-**Features:**
+Features
+
 - Real-time display of the current time
 - AM/PM time format
 - Minimalistic and stylish design
 
-**Installation:**
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Sapna-kispotta/Digital-clock.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd Digital-clock
-    ```
-3. Open `index.html` in your preferred web browser.
+Technologies Used
 
-**Usage:**
-- Simply open the `index.html` file in any web browser.
-- The clock will automatically update every second to show the current time.
+- HTML
+- CSS
+- JavaScript
 
-**Future Enhancements:**
+Future Enhancements
+
 - Add customizable themes
 - Include a date display
-- Provide options for a 24-hour format
-
-For more details, visit the [Digital Clock GitHub Repository](https://github.com/Sapna-kispotta/Digital-clock).
 
 ---
 
