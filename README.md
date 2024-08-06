@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm Sapna Kispotta, currently exploring and learning new things while being associated with NIT Jamshedpur. Here, you'll find some of my frontend projects showcasing my skills in HTML, CSS, Bootstrap and JavaScript.
 
 ---
-__ Projects Showcase __
+## Projects Showcase 
 
 This repository showcases three personal projects demonstrating my skills in web development and design.
 
