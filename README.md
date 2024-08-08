@@ -26,7 +26,7 @@ A simple web application to collect and display news articles from various sourc
 
 # Ice-Cream Web
 
-A digital ice cream menu designed with HTML, CSS, and JavaScript.
+A ice cream menu designed with HTML, CSS, and JavaScript.
 
 **Features**
 
